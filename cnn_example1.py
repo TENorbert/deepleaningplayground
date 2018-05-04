@@ -102,8 +102,8 @@ with tf.Session() as sess:
             avg_cost += c / total_batch
         test_acc = sess.run(accuracy, 
                        feed_dict={x: mnist.test.images, y: mnist.test.labels})
-        print("Epoch:", (epoch + 1), "cost =", "{:.3f}".format(avg_cost), " 
-                 test accuracy: {:.3f}".format(test_acc))
+        print("Epoch:", str((epoch + 1)), "cost =", "{:.3f}".format(avg_cost), 
+		"test accuracy: {:.3f}".format(test_acc))
 
     print("\nTraining complete!")
     print(sess.run(accuracy, feed_dict={x: mnist.test.images, y: mnist.test.labels}))
