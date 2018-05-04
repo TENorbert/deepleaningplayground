@@ -1,0 +1,20 @@
+'''
+	creating a conda environment and packages to work with
+	https://geohackweek.github.io/Introductory/01-conda-tutorial/
+
+'''
+
+C++ Helps:
+http://www.cplusplus.com/reference/sstream/
+https://github.com/isocpp/CppCoreGuidelines
+http://www.cplusplus.com/doc/tutorial/structures/
+https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md
+https://cppstyle.wordpress.com/c11-smart-pointers/
+https://google.github.io/styleguide/cppguide.html
+https://www.coursera.org/courses?languages=en&query=c%2B%2B+programming&start=0&userQuery=c%2B%2B+programming
+https://www.udemy.com/learn-to-program-cpp/learn/v4/content
+https://www.udemy.com/free-learn-c-tutorial-beginners/learn/v4/content
+https://www.lynda.com/learning-paths/Developer/become-a-c-plus-plus-developer
+https://www.lynda.com/Visual-Studio-tutorials/C-Design-Patterns-Creational/661771-2.html
+https://www.lynda.com/Software-Development-tutorials/C-IDE-Overview/661770-2.html
+https://github.com/TENorbert/ten_cpp_projects
